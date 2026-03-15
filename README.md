@@ -5,7 +5,7 @@ Bu proje, modern web geliştirme standartlarına uygun olarak **React** ve **Vit
 ## Canlı Önizleme
 
 Projenin canlı haline aşağıdan ulaşabilirsiniz:
-👉 [**Netlify Canlı Uygulama Linki Buraya Gelecek**](https://senin-netlify-linkin.netlify.app)
+👉 [**Netlify Canlı Uygulama**](https://ecbtodoapp.netlify.app/)
 
 ## Özellikler (CRUD)
 
